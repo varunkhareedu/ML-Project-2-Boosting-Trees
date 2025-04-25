@@ -4,10 +4,10 @@
 
 Team Members:
 
-A20552681 - Naga Sunith Appasani
-A20536596 - Varun Khareedu
-A20546720 - Venkata Gandhi Varma Thotakura
-A20555681 - Pardha Saradhi Bobburi
+* A20552681 - Naga Sunith Appasani
+* A20536596 - Varun Khareedu
+* A20546720 - Venkata Gandhi Varma Thotakura
+* A20555681 - Pardha Saradhi Bobburi
 
 ## Boosting Trees
 
