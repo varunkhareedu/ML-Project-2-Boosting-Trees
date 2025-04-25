@@ -1,5 +1,14 @@
 # Project 2
 
+**Illinois Institute of Technology CS584 - Machine Learning (Spring 2025)**
+
+Team Members:
+
+A20552681 - Naga Sunith Appasani
+A20536596 - Varun Khareedu
+A20546720 - Venkata Gandhi Varma Thotakura
+A20555681 - Pardha Saradhi Bobburi
+
 ## Boosting Trees
 
 Implement again from first principles the gradient-boosting tree classification algorithm (with the usual fit-predict interface as in Project 1) as described in Sections 10.9-10.10 of Elements of Statistical Learning (2nd Edition). Answer the questions below as you did for Project 1. In this assignment, you'll be responsible for developing your own test data to ensure that your implementation is satisfactory. (Hint: Use the same directory structure as in Project 1.)
@@ -70,6 +79,7 @@ Run the test cases to validate the classifier:
 ```bash
 pytest -s BoostingTrees/tests
 ```
+For testing the different CSV files, you can change the file path of the csv to different csv in test_GradientBoostingClassifier.py 
 
 Expected output:
 ```
